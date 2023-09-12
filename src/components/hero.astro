@@ -1,0 +1,43 @@
+---
+// import { Image } from "@astrojs/image/components";
+import { Image } from 'astro:assets';
+import heroImage from "../assets/bowling.png";
+import Link from "@components/ui/link.astro";
+import {  getLangFromUrl, useTranslations } from '@i18n/utils';
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<main class="grid lg:grid-cols-2 place-items-center pt-16 pb-8 md:pt-8">
+  <div class="py-6 md:order-1 hidden md:block">
+    <Image
+      src={heroImage}
+      alt="Astronaut in the air"
+      loading="eager"
+      format="avif"
+    />
+  </div>
+  <div>
+    <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
+      Notion AI
+    </h1>
+    <p class="text-lg mt-4 text-slate-600 max-w-xl">
+      {t("home.headline2")}
+    </p>
+    <div class="mt-6 flex flex-col sm:flex-row gap-3">
+      <Link
+        href="#"
+        href="https://oto.ac.cn/"
+        target="_blank"
+        rel="noopener">{t("home.menu")}</Link
+      >
+      <Link
+        size="lg"
+        style="outline"
+        rel="noopener"
+        href="https://chrome.google.com/webstore/detail/notion-ai/pdahnbohfcekobflehebdkoemnmmempk/related?hl=zh-CN"
+        target="_blank">{t("home.menu2")}</Link
+      >
+    </div>
+  </div>
+</main>

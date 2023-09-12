@@ -1,0 +1,84 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/container.astro";
+import Sectionhead from "@components/sectionhead.astro";
+// import { Image } from "@astrojs/image/components";
+import { Image } from 'astro:assets';
+import { getLangFromUrl, useTranslations } from '@i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+
+const TeamImg1 = "https://ainew.world/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1739f6b6-5b86-4c9a-93b1-11e9049c7339%2F37f2db6b-9f19-431c-864a-9692df8c4622%2FCalendar.png?table=block&id=53744140-50f3-4bd4-885a-7265d7caf3ec&spaceId=1739f6b6-5b86-4c9a-93b1-11e9049c7339&width=1040&userId=&cache=v2";
+const TeamImg2 = "https://ainew.world/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1739f6b6-5b86-4c9a-93b1-11e9049c7339%2F1ca60005-1c46-4ab1-8372-023f35a6147d%2FBuilding.png?table=block&id=de4e01fc-05fb-4ab7-925e-f9050ae4fde7&spaceId=1739f6b6-5b86-4c9a-93b1-11e9049c7339&width=1040&userId=&cache=v2";
+const TeamImg3 = "https://ainew.world/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1739f6b6-5b86-4c9a-93b1-11e9049c7339%2Fc5dcd1b0-ee11-4b6d-9571-944002b0c1af%2FChecking_In.png?table=block&id=a23b1185-59ba-4fc0-94ae-ee3be28bbfb4&spaceId=1739f6b6-5b86-4c9a-93b1-11e9049c7339&width=2000&userId=&cache=v2";
+const team = [
+    {
+        name: "Lynch",
+        title: "CEO",
+        avatar: {
+            src: TeamImg1,
+            width: 480,
+            height: 560,
+        },
+    },
+    {
+        name: "Zieman",
+        title: "CTO",
+        avatar: {
+            src: TeamImg2,
+            width: 580,
+            height: 580,
+        },
+    },
+    {
+        name: "Robert",
+        title: "CMO",
+        avatar: {
+            src: TeamImg3,
+            width: 580,
+            height: 580,
+        },
+    },
+];
+---
+
+<Layout title="About">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">{t("about.title")}</Fragment>
+      <Fragment slot="desc">{t("about.title2")}</Fragment>
+    </Sectionhead>
+
+    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
+      <h2 class="font-bold text-3xl text-gray-800">
+        {t("about.title3")}
+      </h2>
+      <p class="text-lg leading-relaxed text-slate-500">
+        {t("about.team")}
+      </p>
+    </div>
+    <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
+      {
+        team.map((item) => (
+          <div class="group">
+            <div class="w-full aspect-square">
+              <Image
+                {...item.avatar}
+                format="avif"
+                alt="Team"
+                class="w-full h-full object-cover rounded transition  group-hover:-translate-y-1 group-hover:shadow-xl"
+              />
+            </div>
+
+            <div class="mt-4 text-center">
+              <h2 class="text-lg text-gray-800"> {item.name}</h2>
+              <h3 class="text-sm text-slate-500"> {item.title}</h3>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </Container>
+</Layout>
