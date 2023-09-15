@@ -12,26 +12,31 @@ lang: "zh-cn"
 ---
 
 ### Notion APP 插件下载
-Windows 和 Mac 电脑 Notion App 内使用，请先下载这个插件👇
+
+Windows 和 Mac 电脑 Notion App 版本号低于 2.2.0，请下载这个插件👇
 
 **[Notion AI for Windows｜Mac.zip](https://www.notion.so/Notion-AI-for-Windows-Mac-2a3131b786a84a90adaf398bc6685fe2#bd62004532044428aa0f7cfd335db888)**
+
+Mac 电脑上 Notion App 版本号 2.2.0 以上的，请下载这个插件
+**[Notion AI for Mac Intel 芯片.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
+**[Notion AI for Mac M1 芯片.zip](https://www.123pan.com/s/vtoiVv-FEYsH.html)**
+
 
 ### 在 Notion App 里使用插件的教程
 
 #### 如果想在 Mac 电脑上的 Notion App 内使用
 
-- **详细安装教程**
+- **2.2.0 以下版本安装教程**
     - 下载插件 **Notion AI for Windows｜Mac.zip** 后 **解压**
     - 打开 **Finder**，点击**应用程序** ，找到 **Notion**，并右键点击 **Notion 图标**，选择**显示包内容**，然后点击 **Resources** 文件夹，再点击 **app** 文件夹，最后点击 **renderer** 文件夹   
     - 将解压后的 **notion-ai.js** 和 **notion-data.js** 文件拖入到该文件夹 **renderer** 中
     - 右键点击 **preload.js** 文件，使用 **文本编辑** 打开，在首行添加以下代码 **require("./notion-ai")**（用英文输入法输入或者直接复制粘贴）
     - 重启 **Notion app** 即可使用！
 
-- **快捷教程**
-    - 下载插件 **Notion AI for Windows｜Mac.zip** 后 **解压**
-    - 复制地址：**/Applications/Notion.app/Contents/Resources/app/renderer**  后打开 **Finder** 左上角菜单栏点击 **前往** 直接粘贴访问地址    
-    - 将解压后的 **notion-ai.js** 和 **notion-data.js** 文件拖入到该文件夹 **renderer** 中
-    - 右键点击 **preload.js** 文件，使用 **文本编辑** 打开，在首行添加以下代码**require("./notion-ai")**（用英文输入法输入或者直接复制粘贴）
+- **2.2.0 版本插件安装教程**
+    - 下载插件 **Notion AI for Mac Intel 芯片｜M1 芯片.zip** 后 **解压**
+    - 打开 **Finder**，点击 **应用程序**，找到 **Notion**，并右键点击 **Notion**，选择 **显示包内容**  
+    - 打开 **Notion\Contents\Resources**, 将下载的解压后的 **app.asar** 文件拖入到该文件夹中
     - 重启 **Notion app** 即可使用！
 
 #### 如果想在 Windows 电脑的 Notion App 内使用
@@ -45,7 +50,7 @@ Windows 和 Mac 电脑 Notion App 内使用，请先下载这个插件👇
     - 重启 **Notion app** 即可使用！
 
 - **快捷教程**
-    - 下载插件 **Notion AI for Windows.zip** 后 **解压**
+    - 下载插件 **Notion AI for Windows｜Mac.zip** 后 **解压**
     - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**
     - 进入文件夹：**Notion/Resources/app/renderer**
     - 将解压后的 **notion-ai.js** 和 **notion-data.js** 文件拖入到该文件夹 **renderer** 中
