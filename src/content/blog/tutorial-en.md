@@ -13,20 +13,32 @@ lang: "en"
 
 ## For Mac Notion App
 
-- Download the plugin [Notion AI for Windows｜Mac.zip](https://www.notion.so/Notion-AI-for-Windows-Mac-2a3131b786a84a90adaf398bc6685fe2#bd62004532044428aa0f7cfd335db888) and **unzip** it.
-- Open **Finder**, click on **Applications**, find **Notion**, right-click on the **Notion icon**, select **Show Package Contents**, then click on the **Resources** folder, then click on the **app** folder, and finally click on the **renderer** folder.
-- Drag the unzipped **notion-ai.js** and **notion-data.js** files into the **renderer** folder.
-- Right-click on the *preload.js* file, open it with "Text Edit", and add the following code to the first line: **require("./notion-ai")**
-- Restart **Notion app** and you're good to go!
+### Notion APP Plugin Download
 
+Notion App for Windows and Mac computers
 
-## For Windows Notion App
+**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-VEYsH.html)**
 
-- Download the plugin [Notion AI for Windows｜Mac.zip](https://www.notion.so/Notion-AI-for-Windows-Mac-2a3131b786a84a90adaf398bc6685fe2#bd62004532044428aa0f7cfd335db888) and **unzip** it.
-- Right-click on the ***Notion*** icon on the desktop and click on *Open file location*.
-- Then click on the **Resources** folder, followed by the **app** folder, and finally click on the **renderer** folder.
-- Drag the unzipped **notion-ai.js** and **notion-data.js** files into the **renderer** folder.
-- Right-click on the *preload.js* file, select "Open with" and choose *Notepad*🗒️. Add the following code to the first line: **require("./notion-ai")** and save.
-- Restart **Notion app** to use the plugin!
+**[Notion AI for Mac Intel Chip.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
+
+**[Notion AI for Mac M1 Chip.zip](https://www.123pan.com/s/vtoiVv-FEYsH.html)**
+
+### Tutorial on using plugins in Notion App
+
+### If you want to use plugins in Notion App on a Mac computer
+
+**Plugin Installation Tutorial**
+
+- Download the plugin **Notion AI for Mac Intel Chip｜M1 Chip.zip** and **unzip** it.
+- Open **Finder**, click on **Applications**, find **Notion**, right-click on **Notion**, and select **Show Package Contents**.
+- Open **Notion\Contents\Resources** and drag the downloaded and unzipped **app.asar** file into that folder.
+- Restart **Notion app** to start using the plugin!
+
+### If you want to use plugins in Notion App on a Windows computer
+
+**Detailed Installation Tutorial**
+- Download the plugin **Notion AI for Windows** and **unzip** it.
+- Right-click on the **Notion** icon on the desktop, click **Open File Location**, then click the **Resources** folder, and drag the downloaded **app.asar** file into the folder to replace the old file.
+- Restart **Notion app** to start using the plugin!
 
 

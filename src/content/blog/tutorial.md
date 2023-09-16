@@ -13,11 +13,9 @@ lang: "zh-cn"
 
 ### Notion APP 插件下载
 
-Windows 和 Mac 电脑 Notion App 版本号低于 2.2.0，请下载这个插件👇
+Windows 和 Mac 电脑 Notion App 
 
-**[Notion AI for Windows｜Mac.zip](https://www.notion.so/Notion-AI-for-Windows-Mac-2a3131b786a84a90adaf398bc6685fe2#bd62004532044428aa0f7cfd335db888)**
-
-Mac 电脑上 Notion App 版本号 2.2.0 以上的，请下载这个插件
+**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-VEYsH.html)**
 
 **[Notion AI for Mac Intel 芯片.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
 
@@ -28,14 +26,7 @@ Mac 电脑上 Notion App 版本号 2.2.0 以上的，请下载这个插件
 
 #### 如果想在 Mac 电脑上的 Notion App 内使用
 
-- **2.2.0 以下版本安装教程**
-    - 下载插件 **Notion AI for Windows｜Mac.zip** 后 **解压**
-    - 打开 **Finder**，点击**应用程序** ，找到 **Notion**，并右键点击 **Notion 图标**，选择**显示包内容**，然后点击 **Resources** 文件夹，再点击 **app** 文件夹，最后点击 **renderer** 文件夹   
-    - 将解压后的 **notion-ai.js** 和 **notion-data.js** 文件拖入到该文件夹 **renderer** 中
-    - 右键点击 **preload.js** 文件，使用 **文本编辑** 打开，在首行添加以下代码 **require("./notion-ai")**（用英文输入法输入）
-    - 重启 **Notion app** 即可使用！
-
-- **2.2.0 版本插件安装教程**
+- **插件安装教程**
     - 下载插件 **Notion AI for Mac Intel 芯片｜M1 芯片.zip** 后 **解压**
     - 打开 **Finder**，点击 **应用程序**，找到 **Notion**，并右键点击 **Notion**，选择 **显示包内容**  
     - 打开 **Notion\Contents\Resources**, 将下载的解压后的 **app.asar** 文件拖入到该文件夹中
@@ -44,20 +35,10 @@ Mac 电脑上 Notion App 版本号 2.2.0 以上的，请下载这个插件
 #### 如果想在 Windows 电脑的 Notion App 内使用
 
 - **详细安装教程**
-    - 下载插件 **Notion AI for Windows｜Mac.zip** 后 **解压**
-    - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**
-    - 然后点击 **Resources** 文件夹，再点击 **app** 文件夹，最后点击 **renderer** 文件夹
-    - 将解压后的 **notion-ai.js** 和**notion-data.js** 文件拖入到文件夹 **renderer** 中
-    - 右键点击 **preload.js** 文件，选择 **打开方式** 用 **记事本** 打开，在首行添加以下代码**require("./notion-ai")**（用英文输入法输入）后保存
+    - 下载插件 **Notion AI for Windows** 后 **解压**
+    - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**，然后点击 **Resources** 文件夹，将下载好的 **app.asar** 文件拖入到文件夹中替换旧文件
     - 重启 **Notion app** 即可使用！
 
-- **快捷教程**
-    - 下载插件 **Notion AI for Windows｜Mac.zip** 后 **解压**
-    - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**
-    - 进入文件夹：**Notion/Resources/app/renderer**
-    - 将解压后的 **notion-ai.js** 和 **notion-data.js** 文件拖入到该文件夹 **renderer** 中
-    - 右键点击 **preload.js** 文件，使用 **文本编辑** 打开，在首行添加以下代码 **require("./notion-ai")**（用英文输入法输入）保存
-    - 重启 **Notion app** 即可使用！
 
 ### 浏览器插件下载
 
@@ -76,6 +57,7 @@ Mac 电脑上 Notion App 版本号 2.2.0 以上的，请下载这个插件
     5. 恭喜！您可以无限制使用 **Notion AI** 功能了！
 
 ### Edge插件安装教程
+
 - **和 Chrome 安装教程一样**
 
 ### 其他浏览器安装教程
