@@ -17,7 +17,7 @@ lang: "en"
 
 Notion App for Windows and Mac computers
 
-**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-VEYsH.html)**
+**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-vkYsH.html)**
 
 **[Notion AI for Mac Intel Chip.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
 
