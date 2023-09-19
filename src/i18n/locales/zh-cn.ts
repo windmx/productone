@@ -10,11 +10,11 @@ export default {
 
   // 首页
   "home.headline1":"Notion AI",
-  "home.headline2":"Notion AI 是基于 Notion 官方 AI 开发的插件。订阅本插件后，您只需支付不到官方原价 1/4 的价格，就可以享受与原生的 Notion AI 体验。本插件支持多种系统，包括 Mac、Windows 和 Android 等！",
+  "home.headline2":"Notion AI 是基于 Notion 官方授权开发者计划的插件。订阅本插件后，您只需支付不到官方原价 1/4 的价格，就可以享受与原生的 Notion AI 体验。本插件支持多种系统，包括 Mac、Windows 和 Android 等！",
   "home.menu":"立即购买",
-  "home.menu2":"添加到 Chrome 浏览器",
+  "home.menu2":"添加到 Chrome",
 
-  "home.mid.headline1":"最佳的 Notion AI订阅替代方案！",
+  "home.mid.headline1":"最佳的 Notion AI 订阅替代方案！",
   "home.mid.headline2":"Notion AI 插件为 Notion 用户提供了性价比和使用体验兼具的 AI 替代品。",
 
   "home.features1":"原生的 Notion AI 使用体验",
@@ -27,7 +27,7 @@ export default {
   "home.descriptions3":"插件支持 Mac，Windows，Android 以及所有 Chrome 内核的浏览器！",
 
   "home.enjoy":"体验 Notion AI",
-  "home.enjoy2":"Notion AI 的最佳订阅方案",
+  "home.enjoy2":"最佳订阅替代方案",
   "home.button":"立即尝试！",
 
   // 价格
