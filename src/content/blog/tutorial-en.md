@@ -17,11 +17,11 @@ lang: "en"
 
 Notion App for Windows and Mac computers
 
-**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-vkYsH.html)**
+**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-FxYsH.html)**
 
-**[Notion AI for Mac Intel Chip.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
+**[Notion AI for Mac Intel Chip.zip](https://www.123pan.com/s/vtoiVv-gxYsH.html)**
 
-**[Notion AI for Mac M1 Chip.zip](https://www.123pan.com/s/vtoiVv-FEYsH.html)**
+**[Notion AI for Mac M1/2 Chip.zip](https://www.123pan.com/s/vtoiVv-wxYsH.html)**
 
 ### Tutorial on using plugins in Notion App
 
