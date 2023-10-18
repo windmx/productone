@@ -29,14 +29,14 @@ Windows 和 Mac 电脑 Notion App
 - **插件安装教程**
     - 下载插件 **Notion AI for Mac Intel 芯片｜M1 芯片.zip** 后 **解压**
     - 打开 **Finder**，点击 **应用程序**，找到 **Notion**，并右键点击 **Notion**，选择 **显示包内容**  
-    - 打开 **Notion\Contents\Resources**, 将下载的解压后的 **app.asar** 文件拖入到该文件夹中
+    - 打开 **Notion\Contents\Resources**, 删除**app-update.yml**文件，将下载好的的 **app.asar** 文件拖入到该文件夹中
     - 重启 **Notion app** 即可使用！
 
 #### 如果想在 Windows 电脑的 Notion App 内使用
 
 - **详细安装教程**
     - 下载插件 **Notion AI for Windows** 后 **解压**
-    - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**，然后点击 **Resources** 文件夹，将下载好的 **app.asar** 文件拖入到文件夹中替换旧文件
+    - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**，然后点击 **Resources** 文件夹，删除**app-update.yml**文件，将下载好的 **app.asar** 文件拖入到文件夹中替换旧文件
     - 重启 **Notion app** 即可使用！
 
 
