@@ -15,7 +15,7 @@ lang: "zh-cn"
 
 Windows 和 Mac 电脑 Notion App 
 
-**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-vkYsH.html)**
+**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-yYYsH.html)**
 
 **[Notion AI for Mac Intel 芯片.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
 
