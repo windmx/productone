@@ -11,43 +11,32 @@ tags: [NotionAI, Notion, Mac, Windows, Tutorials]
 lang: "zh-cn"
 ---
 
-### Notion APP 插件下载
 
-Windows 和 Mac 电脑 Notion App 
+首先，如果您是 Notion 3.0.0 以下版本的客户，请速度更新您的 Notion 版本为3.0.0版本。
 
-**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-yYYsH.html)**
+软件下载链接：https://www.123pan.com/s/vtoiVv-CbYsH.html
 
-**[Notion AI for Mac Intel 芯片.zip](https://www.123pan.com/s/vtoiVv-gEYsH.html)**
+下载 app.asar ，下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html，然后阅读下面的教程
 
-**[Notion AI for Mac M1 芯片.zip](https://www.123pan.com/s/vtoiVv-FEYsH.html)**
+### Mac 用户教程
 
+如果您是 Mac 用户，打开 Finder，点击"应用程序"，找到 Notion，并右键点击 Notion，选择"显示包内容"，打开 Notion\Contents\Resources 文件夹，将下载好的 app.asar 文件包拖入该文件夹替换旧文件，重启 Notion 客户端即可。（注意⚠️：系统提示已存在该文件，选择替换即可。）
 
-### 在 Notion App 里使用插件的教程
+### Windows 用户教程
 
-#### 如果想在 Mac 电脑上的 Notion App 内使用
+如果您是 Windows 用户，桌面右键 Notion 图标，点击 “打开文件所在的位置”，再次选择 Notion 图标，然后找到 Resources 文件夹，将下载好的 app.asar 文件放入该文件夹替换，重启 Notion 客户端即可。
 
-- **插件安装教程**
-    - 下载插件 **Notion AI for Mac Intel 芯片｜M1 芯片.zip** 后 **解压**
-    - 打开 **Finder**，点击 **应用程序**，找到 **Notion**，并右键点击 **Notion**，选择 **显示包内容**  
-    - 打开 **Notion\Contents\Resources**, 删除**app-update.yml**文件，将下载好的的 **app.asar** 文件拖入到该文件夹中
-    - 重启 **Notion app** 即可使用！
-
-#### 如果想在 Windows 电脑的 Notion App 内使用
-
-- **详细安装教程**
-    - 下载插件 **Notion AI for Windows** 后 **解压**
-    - 桌面右键 **Notion** 图标，点击 **打开文件所在的位置**，然后点击 **Resources** 文件夹，删除**app-update.yml**文件，将下载好的 **app.asar** 文件拖入到文件夹中替换旧文件
-    - 重启 **Notion app** 即可使用！
+app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html
 
 
 ### 浏览器插件下载
 
-没有 VPN 无法访问谷歌商店的，请先下载这个插件👇在本地安装
+没有 VPN 无法访问谷歌商店的，请访问👇下面链接安装
 
-**[Notion AI for browser.zip](https://pan.baidu.com/s/1tgPFb95j9CGlG_CabIhN8w?pwd=ab6j)**
+**[Notion AI for browser](https://www.crxsoso.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
 
 
-### 没有 VPN 如何给 Chrome 安装插件的教程
+### 没有 VPN 如何给 Chrome 安装插件的教程（供参考）
 
 - **手动安装教程**
     1. 进入扩展程序页面：打开 Chrome 浏览器，在地址栏中输入 **chrome://extensions/** 并回车。 
@@ -80,7 +69,7 @@ Windows 和 Mac 电脑 Notion App
         
     - 插件如何收费？
         
-        插件基于 Notion Partner Plan 开发，可直接点击👉购买 [Notion AI](https://oto.ac.cn) 。
+        插件基于 Notion 开发，可直接点击👉购买 [Notion AI](https://oto.ac.cn) 。
         
     - 插件是否会停用？
         
