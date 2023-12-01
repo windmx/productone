@@ -16,7 +16,9 @@ lang: "zh-cn"
 
 软件下载链接：https://www.123pan.com/s/vtoiVv-CbYsH.html
 
-下载 app.asar ，下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html，然后阅读下面的教程
+插件下载 app.asar ，下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html
+
+然后阅读下面的教程
 
 ### Mac 用户教程
 
