@@ -17,11 +17,7 @@ lang: "en"
 
 Notion App for Windows and Mac computers
 
-**[Notion AI for Windows](https://www.123pan.com/s/vtoiVv-FxYsH.html)**
-
-**[Notion AI for Mac Intel Chip.zip](https://www.123pan.com/s/vtoiVv-gxYsH.html)**
-
-**[Notion AI for Mac M1/2 Chip.zip](https://www.123pan.com/s/vtoiVv-wxYsH.html)**
+**[app.asar](https://www.123pan.com/s/vtoiVv-CbYsH.html)**
 
 ### Tutorial on using plugins in Notion App
 
@@ -31,14 +27,14 @@ Notion App for Windows and Mac computers
 
 - Download the plugin **Notion AI for Mac Intel Chip｜M1 Chip.zip** and **unzip** it.
 - Open **Finder**, click on **Applications**, find **Notion**, right-click on **Notion**, and select **Show Package Contents**.
-- Open **Notion\Contents\Resources** delete the **app-update.yml** and drag the downloaded **app.asar** file into that folder.
+- Open **Notion\Contents\Resources** and drag the downloaded **app.asar** file into that folder.
 - Restart **Notion app** to start using the plugin!
 
 ### If you want to use plugins in Notion App on a Windows computer
 
 **Detailed Installation Tutorial**
 - Download the plugin **Notion AI for Windows** and **unzip** it.
-- Right-click on the **Notion** icon on the desktop, click **Open File Location**, then click the **Resources** folder, delete the **app-update.yml** and drag the downloaded **app.asar** file into the folder to replace the old file.
+- Right-click on the **Notion** icon on the desktop, click **Open File Location**, then click the **Resources** folder, and drag the downloaded **app.asar** file into the folder to replace the old file.
 - Restart **Notion app** to start using the plugin!
 
 
