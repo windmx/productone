@@ -11,7 +11,7 @@ lang: "en"
 
 <!-- How to install Notion AI plugin for Mac or Windows Notion App?  -->
 
-## For Mac Notion App
+## For Notion App
 
 ### Notion APP Plugin Download
 
