@@ -17,7 +17,8 @@ lang: "en"
 
 Notion App for Windows and Mac computers
 
-**[app.asar](https://www.123pan.com/s/vtoiVv-CbYsH.html)**
+**[app.asar](https://1drv.ms/f/s!Aq7rp0eRZyClk12F0d7UaGKmSgVW?e=frWWUM)**
+
 
 ### Tutorial on using plugins in Notion App
 
