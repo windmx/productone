@@ -24,9 +24,11 @@ lang: "zh-cn"
 
 同理，浏览器版本也是一样。
 
+替换插件前请关掉你的 Notion App！
+
 教程没问题，有问题的一定是你的操作。
 
-### 教程正文
+## 教程正文
 
 首先，如果您是 Notion 3.0.0 以下版本的客户，请速度更新您的 Notion 版本为3.0.0版本。
 
@@ -36,22 +38,23 @@ lang: "zh-cn"
 
 然后阅读下面的教程
 
-### Mac 用户教程
+## Mac 用户教程
 
 如果您是 Mac 用户，打开 Finder，点击"应用程序"，找到 Notion，并右键点击 Notion，选择"显示包内容"，打开 Notion\Contents\Resources 文件夹，将下载好的 app.asar 文件包拖入该文件夹替换旧文件，重启 Notion 客户端即可。（注意⚠️：系统提示已存在该文件，选择替换即可。）
 
-### Windows 用户教程
+## Windows 用户教程
 
 如果您是 Windows 用户，桌面右键 Notion 图标，点击 “打开文件所在的位置”，再次选择 Notion 图标，然后找到 Resources 文件夹，将下载好的 app.asar 文件放入该文件夹替换，重启 Notion 客户端即可。
 
 app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html
 
 
-### 浏览器插件下载
+## 浏览器插件下载
 
-没有 VPN 无法访问谷歌商店的，请访问👇下面链接安装
+有 vpn 的请直接访问 chrome 应用商店搜索 NotionAI **[Notion AI for browser](https://chrome.google.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
 
-**[Notion AI for browser](https://www.crxsoso.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
+
+没有 VPN 无法访问谷歌商店的，请访问这个安装 **[Notion AI for browser](https://www.crxsoso.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
 
 
 ### 没有 VPN 如何给 Chrome 安装插件的教程（供参考）
