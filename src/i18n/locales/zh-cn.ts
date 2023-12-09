@@ -76,7 +76,7 @@ export default {
   "team.title3":"联系方式",
   "team.title4":"有更多的东西想和我们诉说？联系我们的 Email 或者线下吧！",
   "team.site":"1744 Sanfransico, CA 63093",
-  "team.email":"admin@qunboost.com",
+  "team.email":"support@notionedu.ac.cn",
 
   "team.fullname":"您的姓名",
   "team.address":"您的邮箱",
