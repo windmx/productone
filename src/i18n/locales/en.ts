@@ -76,7 +76,7 @@ export default {
   "team.title3": "Contact LanDrop",
   "team.title4": "Have something to say? We are here to help. Fill up the form or send email or call phone.",
   "team.site": "1744 Sanfransico, CA 63093",
-  "team.email": "admin@qunboost.com",
+  "team.email": "support@notionedu.ac.cn",
 
   "team.fullname": "Full Name",
   "team.address": "Your Email",
