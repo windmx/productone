@@ -19,6 +19,6 @@ We do not share the collected data with third-party vendors or partners, except 
 
 By using our extension, you consent to the collection and use of this information as described in this policy.
 
-If you have any questions or concerns about our privacy policy, please contact us at [support@oto.ac.cn](mailto:support@oto.ac.cn)
+If you have any questions or concerns about our privacy policy, please contact us at [support@notionedu.ac.cn](mailto:support@notionedu.ac.cn)
 
 We utilize AI services that can collect data to improve their performance.
