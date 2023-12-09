@@ -11,6 +11,22 @@ lang: "en"
 
 <!-- How to install Notion AI plugin for Mac or Windows Notion App?  -->
 
+## Notice
+
+If the Windows replacement plugin package isn't functioning, it's likely because your Notion hasn't fully exited ⏏️.
+
+To solve this, check the menu bar at the bottom right of your computer screen. The Notion icon should be present throughout.
+
+Simply right-click and select "Exit" to fully exit the app. Then, reopen it.
+
+For Mac users, the N icon can be found on the top menu bar. This change was introduced by Notion to enhance the search mechanism.
+
+If none of these solutions work, the easiest approach is to replace the plugin, restart your computer, and turn it on again.
+
+The same instructions apply to the browser version.
+
+Please note that the tutorial isn't the issue. It's most likely due to your operation…
+
 ## For Notion App
 
 ### Notion APP Plugin Download
