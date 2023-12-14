@@ -30,7 +30,7 @@ lang: "zh-cn"
 
 ## 教程正文
 
-首先，如果您是 Notion 3.0.0 以下版本的客户，请速度更新您的 Notion 版本为3.0.0版本。
+根据您的 App 版本选择对应的文件包下载。不清楚 App 版本的直接下载文件夹里最新的版本重新安装 App 。
 
 软件下载链接：https://www.123pan.com/s/vtoiVv-K5YsH.html
 
@@ -49,7 +49,7 @@ lang: "zh-cn"
 app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
 
 
-## 浏览器插件下载
+## 浏览器插件如何安装与下载
 
 有 vpn 的请直接访问 chrome 应用商店搜索 NotionAI **[Notion AI for browser](https://chrome.google.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
 
