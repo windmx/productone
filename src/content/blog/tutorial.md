@@ -32,9 +32,9 @@ lang: "zh-cn"
 
 首先，如果您是 Notion 3.0.0 以下版本的客户，请速度更新您的 Notion 版本为3.0.0版本。
 
-软件下载链接：https://www.123pan.com/s/vtoiVv-CbYsH.html
+软件下载链接：https://www.123pan.com/s/vtoiVv-K5YsH.html
 
-插件下载 app.asar ，下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html
+插件下载 app.asar ，下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
 
 然后阅读下面的教程
 
@@ -46,7 +46,7 @@ lang: "zh-cn"
 
 如果您是 Windows 用户，桌面右键 Notion 图标，点击 “打开文件所在的位置”，再次选择 Notion 图标，然后找到 Resources 文件夹，将下载好的 app.asar 文件放入该文件夹替换，重启 Notion 客户端即可。
 
-app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-CbYsH.html
+app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
 
 
 ## 浏览器插件下载
