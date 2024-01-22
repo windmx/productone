@@ -51,10 +51,10 @@ app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
 
 ## 浏览器插件如何安装与下载
 
-有 vpn 的请直接访问 chrome 应用商店搜索 NotionAI **[Notion AI for browser](https://chrome.google.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
+有 vpn 的请直接访问 chrome 应用商店搜索 NotionAI **[Notion AI for browser](https://chromewebstore.google.com/detail/notionai%E6%8F%92%E4%BB%B6/jndldoeopjgmpakgmieaeeelhnjnfgkj?hl=en-US)**
 
 
-没有 VPN 无法访问谷歌商店的，请访问这个安装 **[Notion AI for browser](https://www.crxsoso.com/webstore/detail/pdahnbohfcekobflehebdkoemnmmempk)**
+没有 VPN 无法访问谷歌商店的，请访问这个安装 **[Notion AI for browser](https://www.crxsoso.com/webstore/detail/jndldoeopjgmpakgmieaeeelhnjnfgkj)**
 
 
 ### 没有 VPN 如何给 Chrome 安装插件的教程（供参考）
