@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "How to install Notion AI plugin for Mac or Windows Notion App?"
+title: "How to install Notion AI plugin for browser?"
 publishDate: "2022-11-07T15:39:36.050Z"
 image: "https://ainew.world/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1739f6b6-5b86-4c9a-93b1-11e9049c7339%2Fb808cd23-444b-4ff8-8969-d2835cc3e012%2F900.506__2023-07-1322_57_49.jpeg?table=block&id=df2b92bf-2396-4482-831f-b4f274e5e90a&spaceId=1739f6b6-5b86-4c9a-93b1-11e9049c7339&width=1800&userId=&cache=v2"
 category: "Tutorials"
@@ -9,49 +9,9 @@ tags: [NotionAI, Notion, Mac, Windows, Tutorials]
 lang: "en"
 ---
 
-<!-- How to install Notion AI plugin for Mac or Windows Notion App?  -->
-
-## Notice
-
-If the Windows replacement plugin package isn't functioning, it's likely because your Notion hasn't fully exited ⏏️.
-
-To solve this, check the menu bar at the bottom right of your computer screen. The Notion icon should be present throughout.
-
-Simply right-click and select "Exit" to fully exit the app. Then, reopen it.
-
-For Mac users, the N icon can be found on the top menu bar. This change was introduced by Notion to enhance the search mechanism.
-
-If none of these solutions work, the easiest approach is to replace the plugin, restart your computer, and turn it on again.
-
-The same instructions apply to the browser version.
-
-Please note that the tutorial isn't the issue. It's most likely due to your operation…
-
-## For Notion App
-
-### Notion APP Plugin Download
-
-Notion App for Windows and Mac computers
-
-**[app.asar](https://1drv.ms/f/s!Aq7rp0eRZyClk12F0d7UaGKmSgVW?e=frWWUM)**
+please visit chrome web store to search for Notion中文版 
 
 
-### Tutorial on using plugins in Notion App
 
-### If you want to use plugins in Notion App on a Mac computer
-
-**Plugin Installation Tutorial**
-
-- Download the plugin **Notion AI for Mac Intel Chip｜M1 Chip.zip** and **unzip** it.
-- Open **Finder**, click on **Applications**, find **Notion**, right-click on **Notion**, and select **Show Package Contents**.
-- Open **Notion\Contents\Resources** and drag the downloaded **app.asar** file into that folder.
-- Restart **Notion app** to start using the plugin!
-
-### If you want to use plugins in Notion App on a Windows computer
-
-**Detailed Installation Tutorial**
-- Download the plugin **Notion AI for Windows** and **unzip** it.
-- Right-click on the **Notion** icon on the desktop, click **Open File Location**, then click the **Resources** folder, and drag the downloaded **app.asar** file into the folder to replace the old file.
-- Restart **Notion app** to start using the plugin!
 
 
