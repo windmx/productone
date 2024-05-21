@@ -10,51 +10,15 @@ author: "Landrop"
 tags: [NotionAI, Notion, Mac, Windows, Tutorials]
 lang: "zh-cn"
 ---
-### 注意事项
 
-如果Windows替换插件包发现不生效，是因为你的Notion没有完全退出⏏️。
+AI 插件仅支持浏览器使用，不再更新对客户端的支持！
 
-你可以看看你的电脑屏幕右下角菜单栏，Notion图标自始至终都在。
+## 安装 AI 插件教程
 
-只需要右键完全退出后重新打开App即可。
-
-同理，Mac也是。你的顶部菜单栏有一个N图标。这是因为Notion引入了新的Search机制。
-
-如果这些都不能帮到你，最简单的方式是替换完插件，重启电脑，开机，完工。
-
-同理，浏览器版本也是一样。
-
-替换插件前请关掉你的 Notion App！
-
-教程没问题，有问题的一定是你的操作。
-
-## 教程正文
-
-根据您的 App 版本选择对应的文件包下载。不清楚 App 版本的直接下载文件夹里最新的版本重新安装 App 。
-
-软件下载链接：https://www.123pan.com/s/vtoiVv-K5YsH.html
-
-插件下载 app.asar ，下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
-
-然后阅读下面的教程
-
-## Mac 用户教程
-
-如果您是 Mac 用户，打开 Finder，点击"应用程序"，找到 Notion，并右键点击 Notion，选择"显示包内容"，打开 Notion\Contents\Resources 文件夹，将下载好的 app.asar 文件包拖入该文件夹替换旧文件，重启 Notion 客户端即可。（注意⚠️：系统提示已存在该文件，选择替换即可。）
-
-## Windows 用户教程
-
-如果您是 Windows 用户，桌面右键 Notion 图标，点击 “打开文件所在的位置”，再次选择 Notion 图标，然后找到 Resources 文件夹，将下载好的 app.asar 文件放入该文件夹替换，重启 Notion 客户端即可。
-
-app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
+有 vpn 的请直接访问 chrome 应用商店 **[Notion中文版](https://chromewebstore.google.com/detail/notion%E4%B8%AD%E6%96%87%E7%89%88/ljlhpcabhpjdlcjhbmgjigfceppgabmk)**
 
 
-## 浏览器插件如何安装与下载
-
-有 vpn 的请直接访问 chrome 应用商店搜索 NotionAI **[Notion AI for browser](https://chromewebstore.google.com/detail/notionai%E6%8F%92%E4%BB%B6/jndldoeopjgmpakgmieaeeelhnjnfgkj?hl=en-US)**
-
-
-没有 VPN 无法访问谷歌商店的，请访问这个安装 **[Notion AI for browser](https://www.crxsoso.com/webstore/detail/jndldoeopjgmpakgmieaeeelhnjnfgkj)**
+没有 VPN 无法访问谷歌商店的，请访问这个安装 **[Notion中文版](https://www.crxsoso.com/webstore/detail/ljlhpcabhpjdlcjhbmgjigfceppgabmk)**
 
 
 ### 没有 VPN 如何给 Chrome 安装插件的教程（供参考）
@@ -73,7 +37,7 @@ app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
 ### 其他浏览器安装教程
 
 - **具体步骤**
-    1. 下载 Notion AI 插件并解压。
+    1. 下载插件并解压。
     2. 打开目标浏览器，进入其扩展页面并打开开发者模式。
     3. 点击“**加载解压缩的扩展**”后选择之前下载后解压缩的文件包即可完成安装！**成功加载后的插件文件请不要删除！**
 
@@ -83,7 +47,7 @@ app.asar 下载链接🔗：https://www.123pan.com/s/vtoiVv-K5YsH.html
    
     - 插件在使用过程中出现问题怎么办？
         
-        请尝试重启浏览器或客户端，并检查是否有更新版本可用。如果问题依然存在，请联系我们获取技术支持。
+        请尝试重启浏览器，并检查是否有更新版本可用。如果问题依然存在，请联系我们获取技术支持。
         
     - 该插件是否支持其他浏览器？
         
